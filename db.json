@@ -650,35 +650,7 @@
         "id": 506
       }
     ],
-    "cart": [
-      {
-        "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbce07eba/crop/026234484_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-        "name": "Waikiki Beach Coconut",
-        "subname": "3-Wick Candle",
-        "Price": 24.5,
-        "type": "fresh",
-        "quantity": 1,
-        "id": 1
-      },
-      {
-        "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafd2f31b/crop/026234485_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-        "name": "Passionfruit &  Banana ",
-        "subname": "3-Wick Candle",
-        "Price": 24.5,
-        "type": "fresh",
-        "quantity": 1,
-        "id": 2
-      },
-      {
-        "img": "https://www.bathandbodyworks.com/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbcaf3f2f/crop/026234487_crop.jpg?sw=500&sh=600&sm=fit&q=75",
-        "name": "Orange Pineapple Punch",
-        "subname": "3-Wick Candle",
-        "Price": 24.5,
-        "type": "floral",
-        "quantity": 1,
-        "id": 3
-      }
-    ],
+    "cart": [ ],
     "register": [
       {
         "email": "vivekjawale41@gmail.com",
